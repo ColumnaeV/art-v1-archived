@@ -165,7 +165,7 @@ a, li a {
 /* Nav Styles */
 .nav-panel {
     width: 30vw;
-    height: auto;
+    height: 100vh;
     overflow: hidden;
     background-color: var(--colour-2);
     position: fixed;
@@ -185,7 +185,7 @@ a, li a {
 }
 
 .nav-top, .nav-bottom {
-    height: auto;
+    height: 50%;
     width: 100%;
     position: relative;
     overflow: hidden;
@@ -743,7 +743,7 @@ p {
 /* Nav Styles */
 .nav-panel {
     width: 100vw;
-    height: auto;
+    height: 100vh;
     overflow: hidden;
     background-color: var(--colour-2);
     position: fixed;
@@ -763,7 +763,7 @@ p {
 }
 
 .nav-top, .nav-bottom {
-    height: auto;
+    height: 50%;
     width: 100%;
     position: relative;
     overflow: hidden;
