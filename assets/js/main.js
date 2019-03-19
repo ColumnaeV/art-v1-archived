@@ -59,9 +59,9 @@ $(document).ready(function (){
     $('#cover-container').children('.cover-div').css({ height: vh100 });
     $('.cover-wrapper').css({ minHeight: vh100 });
     $('.desktop-mode').css({ minHeight: vh100 });
-    $('.nav-panel').css({ height: vh100 });
-    $('.nav-top').css({ height: vh50 });
-    $('.nav-bottom').css({ height: vh50 });
+    // $('.nav-panel').css({ height: vh100 });
+    // $('.nav-top').css({ height: vh50 });
+    // $('.nav-bottom').css({ height: vh50 });
 
     // Nav Control //
     $(".hamburger").stop(true, false).click(function (){
